@@ -1,6 +1,6 @@
 # Minecraft Font Better Discord Theme
 
-#code/themes code, what I used to create this theme:
+# code/themes code, what I used to create this theme:
 
 [Font](https://gist.github.com/BBoldt/67438fb40301144235272bdb01e1336b)
 
