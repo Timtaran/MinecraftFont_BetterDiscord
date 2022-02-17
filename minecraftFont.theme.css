@@ -1,0 +1,26 @@
+/**
+ * @name         Minecraft Font
+ * @description Minecraft Font for discord.
+ * @author       Timtaran
+ * @version      1.0.2
+ * @source       https://timtaran.github.io/gg.html
+*/
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+@import url(https://Timtaran.github.io/minecraft.ttf);
+
+:root {
+--Chat-Font-Used: 'Minecraft Rus Regular', Rus ;
+--Chat-Font-Size: 8px;
+}
+:not([class="hljs"]):not(code){
+font-family: var(--Chat-Font-Used)!important;
+}
+
+.markup:not(code) {
+font-size: var(--Chat-Font-Size)!important;
+}
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_lode-503,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+:root {--version: "UNKOWN"; --build: "UNKNOWN"; --outdated_lode-503: none}
+    .sidebarRegion-1VBisG{flex-grow:0}
+    .contentColumnDefault-3eyv5o{max-width:calc(83vw)!important}
+    .contentTransitionWrap-1YD530{margin-left:-15px;width:0}
